@@ -5268,6 +5268,12 @@ K Fixed 5V 2A battery boost converter
 F http://www.ti.com/lit/ds/symlink/tps61090.pdf
 $ENDCMP
 #
+$CMP TPS61169
+D High current boost WLED driver with PWM control, 2.7-5.5 Vin, 1.2 MHz, 1.8A, up to 38 Vout, SOT-353 (SC70-5)
+K LED driver PWM control
+F http://www.ti.com/lit/ds/symlink/tps61040.pdf
+$ENDCMP
+#
 $CMP TPS61200DRC
 D Low Input Voltage Synchronous Boost Converter With 1.3A Switches, Adjustable Output Voltage, 0.3-5.5V Input Voltage, VSON-10
 K boost step-up DC/DC synchronous
