@@ -582,6 +582,22 @@ K SMPS PWM Controller
 F http://www.ti.com/lit/ds/symlink/tl494.pdf
 $ENDCMP
 #
+$CMP TPS65100_VQFN
+D TPS6510x Triple Output LCD Supply With Linear Regulator and VCOM Buffer
+K VCOM VGH VGL LCD Regulator
+F http://www.ti.com/lit/ds/symlink/tps65100.pdf
+$ENDCMP
+#
+$CMP TPS65101_VQFN
+D TPS6510x Triple Output LCD Supply With Linear Regulator and VCOM Buffer
+K VCOM VGH VGL LCD Regulator
+$ENDCMP
+#
+$CMP TPS65105_VQFN
+D TPS6510x Triple Output LCD Supply With Linear Regulator and VCOM Buffer
+K VCOM VGH VGL LCD Regulator
+$ENDCMP
+#
 $CMP UC3525
 D Regulating Pulse Width Modulators, NOR Logic, PDIP-16/SOIC-16
 K SMPS PWM Controller
