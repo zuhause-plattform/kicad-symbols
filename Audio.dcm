@@ -168,6 +168,12 @@ K audio dac 2ch 24bit 192kHz
 F http://www.ti.com/lit/ds/symlink/dsd1794a.pdf
 $ENDCMP
 #
+$CMP MAX9867ETJ
+D 48kHz Stereo Audio Codec, Differential Anlog MIC Input, Digital MIC Input, Differential/Single-ended/Capacitorless Headphone Output, TQFN-32
+K audio codec 2ch 96kHz headphone amplifier
+F https://datasheets.maximintegrated.com/en/ds/MAX9867.pdf
+$ENDCMP
+#
 $CMP MN3005
 D 4096-STAGE LONG DELAY BBD (bucket brigade device), delay time 20.48ms to 204.8ms, S/N 75dB, clock frequency range 10KHz to 100KHz
 K Matsushita Panasonic BBD
